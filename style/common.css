@@ -1,0 +1,15 @@
+input {
+    border: 1px solid #efefef;
+    background: #fafafa;
+}
+.westa-main {
+    display: flex
+}
+div {
+    box-sizing:border-box;
+    display: flex;
+}
+img {
+
+    /* display: flex; */
+}
